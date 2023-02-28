@@ -1,6 +1,6 @@
-##INSTALLATION
+#INSTALLATION
 
-Le modèle amélioré est chargé par défaut (vgg16) dans model.py, mais l'ancien modèle est disponible (retinal-oct) dans les fichiers.
+Le modèle amélioré est à télécharger ici https://drive.google.com/file/d/1-M8j18ty6u89cA7PhAy_79X6fu5fxZzn/view?usp=share_link.
 
 Lorsque vous lancez le serveur, vous arrivez sur la route d'origine.
 Pour accéder aux nouvelles fonctionnalités de l'application, utilisez la route "/home" et chargez votre fichier.
